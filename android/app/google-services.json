@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605539887875",
+    "project_id": "chatapp-45f3b",
+    "storage_bucket": "chatapp-45f3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605539887875:android:258b8d6226d64f66c09736",
+        "android_client_info": {
+          "package_name": "com.activebistro.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605539887875-fl5j4qh82gqsrslufhdmbpktggt7t9qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.activebistro.chatapp",
+            "certificate_hash": "cf1f274a4f4bd43d5186c6e15b4d80e217a3fa58"
+          }
+        },
+        {
+          "client_id": "605539887875-4vssu0o73so3vd0n90h8uv0mhm06g7qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXU6Xb7tzx_L4hhu2PD50s9wKR5tq8OY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605539887875-4vssu0o73so3vd0n90h8uv0mhm06g7qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
